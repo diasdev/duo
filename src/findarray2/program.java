@@ -2,7 +2,7 @@ package findarray2;
 
 public class program {
 	public static void main(String[] args) {
-		ArrayFinder finder = new ArrayFinder();
+		FindArray finder = new ArrayFinder();
 		int[] array1 = {2, 5, 0, 7, 16, 9, 7, 12, 26};
 		int[] array2 = {2, 12, 8};
 		
